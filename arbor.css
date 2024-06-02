@@ -11,5 +11,6 @@ body {
     text-align: left;
     max-width: 70ch;
     padding: 5% 10%;
+    cursor: crosshair;
 }
 
